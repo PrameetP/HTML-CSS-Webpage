@@ -1,0 +1,133 @@
+    body
+    {
+        margin:0;
+        padding:0;
+        font-family:"sans-seriff";
+    }
+    
+    header
+    {
+        background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5));
+        background-size: inherit ;
+        background-position:top;
+        height: 15%;
+    }
+    nav{
+            width: 100%;
+        line-height: 50px;
+        margin: auto;
+  
+  
+  padding: 10px;
+    }
+
+    nav ul{
+        
+        float:right;
+        clear: right;
+        margin: 0;
+        padding-right: 42px;
+    }
+    nav ul li{
+        
+        display:inline-block;
+        padding:   1px    20px;
+        background-color: rgb(0, 0, 0);
+        border: 3px solid rgb(0, 0, 0);  
+    }
+
+    nav ul li a{
+        text-decoration: none;
+        color:rgb(41, 248, 0);
+        font-size: 18px;  
+        
+    
+    }
+
+    .logo img{
+        height: 80%;
+        
+        float: left;
+        padding: 15px 15px ;
+        
+    
+    }
+
+    .container{
+        height: 100%;
+        
+        float: left;   
+    }
+    .fullwidthimage{
+        padding: 10px;
+        
+    }
+
+    #maincontent{
+        padding: 10px;
+    }
+    #centerdiv{
+        margin: auto;
+    width:50%;
+    
+    
+    padding: 10px;
+    text-align: justify;
+        
+    }
+    #contentleft{
+        float:left;
+        
+        width: 50%;
+        
+    }
+    #contentright{
+        float: right;
+        
+        width: 50%;
+        
+    }
+    #imageleft{
+        float: left;
+    width: 35%;
+    
+    
+    }
+    #imageright{
+        float: right;
+        width: 35%;
+      
+
+    }
+
+    .menu
+    {
+        list-style-position:inside;
+        
+    }
+ 
+#content {
+        height: 100%;
+      }
+.Video{
+        vertical-align: initial;
+        float:right;
+        size: 20%;
+    }
+      .footer
+    {
+        position: center;
+        clear: both;
+        background-color: black;
+        color: blanchedalmond;
+        text-align:center;
+        height: 80px;
+        
+      
+        
+    }
+
+
+
+
+    
